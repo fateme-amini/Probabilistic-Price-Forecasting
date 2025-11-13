@@ -1,6 +1,6 @@
 # Probabilistic Price Forecasting with Stochastic Scenario Generation
 
-This repository contains the code and analysis for a probabilistic energy price forecast, as featured in [Stochastic Planning and Modeling for Energy Systems Methods, Applications, and Developments].
+This repository contains the code and analysis for a probabilistic energy price forecast, as featured in "Stochastic Planning and Modeling for Energy Systems Methods, Applications, and Developments".
 
 The project demonstrates a common workflow in energy analytics:
 1.  A **deterministic forecast** is created using Facebook's Prophet to capture seasonal trends.
