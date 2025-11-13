@@ -1,0 +1,11 @@
+# Core libraries
+pandas
+numpy
+plotly
+scipy
+
+# Modeling libraries
+prophet
+statsmodels
+pyDOE2
+scoringrules
